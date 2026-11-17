@@ -57,12 +57,12 @@ links:
     url: /experience/
   - title: Awards
     url: /awards/
-  - title: Hobbies
+  - title: Activities and Hobbies
     url: /hobbies/
-  - title: Blogs
-    url: /blogs/
-  - title: 中文
-    url: /cn/
+ # - title: Blogs
+    #url: /blogs/
+ # - title: 中文
+    # url: /cn/
   # - title: AI4Wellbening
     # url: https://ai4wellbeing.github.io/
 
