@@ -8,9 +8,22 @@ title: Experience
 >
 > Over the past year, I’ve remained passionate about swimming, but the lack of convenient and decent swimming pools in Cambridge has been an inconvenience. As a result, I’ve been swimming less frequently and have gained some weight. If you’re also in Cambridge and interested in swimming, running, or cycling together, feel free to contact me!
 
-# Hobbies
+# Experience
 
-## Swimming & Surfing
+## Graduate Course Assistant, Loyola University Chicago - Chicago, IL
+
+Experience
+Graduate Course Assistant, Loyola University Chicago – Chicago, IL • Hold weekly office hours and grade quizzes for a linear algebra course.
+Graduate Researcher, Loyola University Chicago – Chicago, IL • Partially Ordered Sets and Representation Theory research under Dr. Rafael González D’León.
+Harpist, Golden Harps of Nashville – Nashville, TN • Perform live music for weddings, memorials, and special events.
+AFRL Scholar, Air Force Research Laboratory Scholars Program – Eglin AFB, FL • Worked with Dr. Alla Kammerdiner on simulation software using Python scripts.
+Barista/Cashier, Star Bagel Cafe – Nashville, TN • Customer service, opened and closed the store, made food and drinks.
+Activities
+Aug 2026 – Present
+Jan 2026 – Present
+Jan 2020 – Present
+May 2026 – Aug 2026
+June 2022 – Jan 2025
 
 <div class="third">
 <img src="/images/swimming2.JPG">
