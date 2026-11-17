@@ -16,10 +16,4 @@ layout: page
 
 <br>I am always open to academic discussions and potential collaborations. Please feel free to reach out to me at **amb1406@icloud.com**.
 
----
-
-## Research Interests
-
-- Combinatorics
-- Engineering / Material Testing
 
