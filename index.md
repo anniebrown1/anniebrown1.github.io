@@ -4,7 +4,7 @@ layout: page
 
 ## About Me
 
-<img src="{{ "/caihanlin.jpg" | relative_url }}" class="floatpic" alt="Hanlin Cai">
+<img src="{{ "/myheadshot.png" | relative_url }}" class="floatpic" alt="Annie Brown">
 
 <br>Here is **Hanlin Cai** (Lance, 蔡汉霖). I am the founder of the [Cambridge AI for Wellbeing Soceity](https://ai4wellbeing.github.io/).
 
