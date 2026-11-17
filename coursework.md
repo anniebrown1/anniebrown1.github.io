@@ -20,4 +20,4 @@ title: Coursework
 - Multivariable Calculus
 - Ordinary Differential Equations
 - Real Analysis I & II
-- 
+- College Physics I
