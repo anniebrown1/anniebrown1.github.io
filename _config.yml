@@ -49,10 +49,10 @@ google_analytics: "G-T5N5JY1E21"                                 # GA-4 measurem
 links:
   - title: Main
     url: /
-  - title: Publications
-    url: /publications/
-  - title: Services
-    url: /services/
+ # - title: Publications
+   # url: /publications/
+ # - title: Services
+   # url: /services/
   - title: Awards
     url: /awards/
   - title: Hobbies
