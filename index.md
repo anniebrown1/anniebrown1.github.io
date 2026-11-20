@@ -14,6 +14,6 @@ layout: page
 
 <br>Outside of academics, I play the harp professionally, which I have played for about 13 years. I am also involved in Loyola's Kappa Delta sorority chapter, where I hold the position of the Director of Philanthropy and Community Service. Throughout my time at Loyola, I have also played lacrosse on the Women's Club Lacrosse team. 
 
-<br>I am always open to academic discussions and potential collaborations. Please feel free to reach out to me at **amb1406@icloud.com**.
+<br>I am always open to academic discussions and potential collaborations. Please feel free to reach out to me via email. 
 
 
